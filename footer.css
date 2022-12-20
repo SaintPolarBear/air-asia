@@ -34,19 +34,19 @@
 }
 
 .socials__item--icon--telegram .socials__link {
-    background-image: url("./img/telegram.jpg");
+    background-image: url("../../img/telegram.jpg");
 }
 
 .socials__item--icon--vk .socials__link {
-    background-image: url("./img/vk.jpg");
+    background-image: url("../../img/vk.jpg");
 }
 
 .socials__item--icon--fb .socials__link {
-    background-image: url("./img/f.jpg");
+    background-image: url("../../img/f.jpg");
 }
 
 .socials__item--icon--insta .socials__link {
-    background-image: url("./img/in.jpg");
+    background-image: url("../../img/in.jpg");
 }
 
 .contacts__desc {

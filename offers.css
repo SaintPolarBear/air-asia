@@ -10,7 +10,7 @@
 }
 .title--fire::after {
     content: "";
-    background: url("./img/flame.jpg") no-repeat;
+    background: url("../../img/flame.jpg") no-repeat;
     margin-left: 12px;
     width: 21px;
     height: 28px;
