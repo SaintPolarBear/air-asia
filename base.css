@@ -76,7 +76,7 @@ a:hover {
     min-height: 100%;
 	display: flex;
 	flex-direction: column;
-	background: url("../img/elephant.jpg") center top no-repeat, url("../img/sea.png") right bottom 165px no-repeat;
+	background: url("../../img/elephant.jpg") center top no-repeat, url("../../img/sea.png") right bottom 165px no-repeat;
 }
 
 .container {
