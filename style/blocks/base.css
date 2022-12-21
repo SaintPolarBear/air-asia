@@ -67,9 +67,6 @@ img {
 	max-width: 100%;
 	max-height: 100%;
 }
-a:hover {
-	color: #F5170E;
-}
 
 .wrapper {
     overflow: hidden;
@@ -164,6 +161,36 @@ a:hover {
 
 .button{
 	width: 168px;
+	padding: 18px 0;
+	background: #F5170E;
+	border-radius: 35px;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 19px;
+}
+
+.button__light {
+	width: 135px;
+	padding: 18px 0;
+	background: #FFFFFF;
+	border-radius: 0px 0px 5px 5px;
+	color: #F5170E;
+	text-align: center;
+	text-transform: uppercase;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 19px;
+	border: 1px solid #F5170E;
+	border-radius: 35px;
+}
+
+.button__light:hover {
+	width: 135px;
 	padding: 18px 0;
 	background: #F5170E;
 	border-radius: 35px;
